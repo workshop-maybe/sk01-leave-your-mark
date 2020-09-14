@@ -1,2 +1,4 @@
-# sk01-leave-your-mark
-Navigate GitHub and leave your mark!
+# Starter Kit 001 Leave Your Mark
+Navigate GitHub and leave your mark.
+
+
