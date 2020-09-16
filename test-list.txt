@@ -1,11 +1,20 @@
-*-----------------------------------
-*
-* Glad to be here, let's build.
-*
-*-----------------------------------
+Thank you for checking out the first ever Workshop Maybe Starter Kit!
 
-*-----------------------------------
-*
-* Me too, fabulous!
-*
-*-----------------------------------
+We're glad you're here and hope that you'll leave your mark. Here's how:
+1. Copy the top message block below, and paste a copy above it
+2. In your new copy change the date to today
+3. Change the message to leave your mark. Your name is optional!
+
+|------------------------------------------------------------
+| Date: 2020-09-15
+|
+| Me too, fabulous!
+|
+|------------------------------------------------------------
+
+|------------------------------------------------------------
+| Date: 2020-09-14 
+|
+| Glad to be here, let's build.     
+|                                   
+|------------------------------------------------------------
