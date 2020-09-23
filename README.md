@@ -1,4 +1,4 @@
-# Starter Kit 001 Leave Your Mark
+# Starter Kit #001 Leave Your Mark
 Navigate GitHub and leave your mark.
 
 Full documentation and accompanying videos are available at 
