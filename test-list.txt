@@ -228,7 +228,6 @@ We're glad you're here and hope that you'll leave your mark. Here's how:
 | Marm
 |------------------------------------------------------------
 
-
 |------------------------------------------------------------
 | Date: 2021-03-04
 |
@@ -241,4 +240,11 @@ We're glad you're here and hope that you'll leave your mark. Here's how:
 |
 | Very cool course.
 | Emanuel 
+|------------------------------------------------------------
+
+|------------------------------------------------------------
+| Date: 2021-03-11
+|
+| Thank you for your time on this project!
+| Kevin
 |------------------------------------------------------------
