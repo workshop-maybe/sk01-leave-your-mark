@@ -282,3 +282,10 @@ We're glad you're here and hope that you'll leave your mark. Here's how:
 | Thank you for making this!
 | 
 |------------------------------------------------------------
+
+|------------------------------------------------------------
+| Date: 2021-03-21
+|
+| Thank you teaching us about GitHub! -Zane
+| 
+|------------------------------------------------------------
