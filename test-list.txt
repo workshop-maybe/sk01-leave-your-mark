@@ -454,9 +454,9 @@ We're glad you're here and hope that you'll leave your mark. Here's how:
 |------------------------------------------------------------
 
 |------------------------------------------------------------
-| Date: 2022-07-29 
+| Date: 2022-11-5
 |
-|Hello, World!
+|Hi Brien Austin here. getting started with the GitHub functionalities.
 |                                   
 |------------------------------------------------------------
 
