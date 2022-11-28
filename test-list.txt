@@ -453,12 +453,6 @@ We're glad you're here and hope that you'll leave your mark. Here's how:
 | - By Bernard Sibanda
 |------------------------------------------------------------
 
-|------------------------------------------------------------
-| Date: 2022-11-5
-|
-|Hi Brien Austin here. getting started with the GitHub functionalities.
-|                                   
-|------------------------------------------------------------
 
 |------------------------------------------------------------
 | Date: 2022-08-17
@@ -479,5 +473,12 @@ We're glad you're here and hope that you'll leave your mark. Here's how:
 | Date: 2022-09-21 
 |
 |First rule of fight club is you do not talk about fight club. 
+|                                   
+|------------------------------------------------------------
+
+|------------------------------------------------------------
+| Date: 2022-11-5
+|
+|Hi Brien Austin here. getting started with the GitHub functionalities.
 |                                   
 |------------------------------------------------------------
